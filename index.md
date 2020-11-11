@@ -5,25 +5,25 @@ layout: default
 <img class="profile-picture" src="bio.jpg">
 
 (蒋沁宏)  
-Senior Research Manager, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
+Senior R&D Manager, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
 Email: [jiangqinhong at sensetime dot com]()
 <br/>
 
 ## Short Biography
 ---  
-Currently I am a senior research manager at SenseTime, leading the perception model/application team in intelligent driving group.
+Currently I am a Senior R&D Manager at SenseTime, leading the perception model&application team in intelligent driving group.
 
 We are recruiting self-motivated researchers/developers.
-If you are instrested in perception(no matter camera or lidar or radar based), object fusion, adas driving functions or system engineering, please send me your CV.
+If you are instrested in perception, adas driving functions, v2x or system engineering, please send me your CV.
 
 Before I joined SenseTime in 2018, I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University in 2015.
 <br/>
 <br/>
 <br/>
 
-## Research Interest 
+## R&D Interest 
 ---
-Perception, Prediction, System Engineering
+ADAS, Autonomous Driving, V2X
 <br/>
 <br/>
 <br/>
