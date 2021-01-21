@@ -6,7 +6,7 @@ layout: default
 
 (蒋沁宏)  
 Senior R&D Manager, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
-Email: [jiangqinhong at sensetime dot com]()
+Email: [jiangqinhong at senseauto dot com]()
 <br/>
 
 ## Short Biography
