@@ -23,7 +23,7 @@ Before I joined SenseTime in 2018, I got my M.S. degree in the [State Key Lab of
 
 ## R&D Interest 
 ---
-ADAS, Autonomous Driving, V2X
+Topics related to intelligent driving include but are not limited to perception, prediction and driving functions.
 <br/>
 <br/>
 <br/>
