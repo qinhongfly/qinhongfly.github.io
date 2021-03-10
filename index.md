@@ -36,7 +36,7 @@ Chaofan Tao, **Qinhong Jiang**, Lixin Duan, Luo Ping
 European Conference on Computer Vision(ECCV), 2020.
 
 [TPNet: Trajectory Proposal Network for Motion Prediction](https://arxiv.org/abs/2004.12255)  
-Liangji Fang\*, **Qinhong Jiang**\*, Jianping Shi, Bolei Zhou  (equal contribution)
+Liangji Fang\*, **Qinhong Jiang**\*, Jianping Shi, Bolei Zhou (\* equal contribution)      
 Conference on Computer Vision and Pattern Recognition(CVPR), 2020.
 
 [Recursive Social Behavior Graph for Trajectory Prediction](https://arxiv.org/abs/2004.10402)  
