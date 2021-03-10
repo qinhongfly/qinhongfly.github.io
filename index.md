@@ -11,10 +11,10 @@ Email: [jiangqinhong at senseauto dot com]()
 
 ## Short Biography
 ---  
-Currently I am a Senior R&D Manager at SenseTime, leading the perception model&application team in intelligent driving group.
+Currently I am a senior R&D Manager at SenseTime, leading the perception model&application team in intelligent driving group.
 
 We are recruiting self-motivated researchers/developers.
-If you are instrested in perception, adas driving functions, v2x or system engineering, please send me your CV.
+If you are instrested in perception, sensor fusion, scene understanding, adas driving functions, or system engineering, please send me your CV.
 
 Before I joined SenseTime in 2018, I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University in 2015.
 <br/>
@@ -36,7 +36,7 @@ Chaofan Tao, **Qinhong Jiang**, Lixin Duan, Luo Ping
 European Conference on Computer Vision(ECCV), 2020.
 
 [TPNet: Trajectory Proposal Network for Motion Prediction](https://arxiv.org/abs/2004.12255)  
-Liangji Fang\*, **Qinhong Jiang**\*, Jianping Shi, Bolei Zhou  
+Liangji Fang\*, **Qinhong Jiang**\*, Jianping Shi, Bolei Zhou  (equal contribution)
 Conference on Computer Vision and Pattern Recognition(CVPR), 2020.
 
 [Recursive Social Behavior Graph for Trajectory Prediction](https://arxiv.org/abs/2004.10402)  
