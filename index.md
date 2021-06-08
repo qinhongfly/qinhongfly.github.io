@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="bio.jpg">
 
 (蒋沁宏)  
-Dupty Directory of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
+Dupty Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
 Email: [jiangqinhong at senseauto dot com]()
 <br/>
 
