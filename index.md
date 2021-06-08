@@ -5,13 +5,13 @@ layout: default
 <img class="profile-picture" src="bio.jpg">
 
 (蒋沁宏)  
-Senior R&D Manager, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
+Dupty Directory of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
 Email: [jiangqinhong at senseauto dot com]()
 <br/>
 
 ## Short Biography
 ---  
-Currently I am a senior R&D Manager at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.    
+Currently I am a Dupty Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.    
 
 We are recruiting self-motivated researchers/developers.
 If you are instrested in topics related to autonoumous driving, including perception, sensor fusion, trajectory prediction and software engineering, please send me your CV.   
@@ -31,7 +31,11 @@ Topics related to autonoumous driving include but are not limited to perception,
 
 ## Publications
 ---  
-[Monocular 3D Object Detection: An Extrinsic Parameter Free Approach]()   
+[Shape Prior Guided Instance Disparity Estimation for 3D Object Detection](https://ieeexplore.ieee.org/document/9419782)  
+Linghao Chen, Jiaming Sun, Yiming Xie, Siyu Zhang, Qing Shuai, **Qinhong Jiang**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou  
+IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2021.  
+
+[Monocular 3D Object Detection: An Extrinsic Parameter Free Approach](https://lion.sjtu.edu.cn/resource/downloadFile?filePath=/home/lion/lionweb/data/publication/text/20210331170319_802.pdf)   
 Yunsong Zhou, Yuan He, Hongzi Zhu, Cheng Wang, Hongyang Li, **Qinhong Jiang**   
 Conference on Computer Vision and Pattern Recognition(CVPR), 2021.   
 
