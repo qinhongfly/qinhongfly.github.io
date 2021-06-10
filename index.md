@@ -5,13 +5,13 @@ layout: default
 <img class="profile-picture" src="bio.jpg">
 
 (蒋沁宏)  
-Dupty Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
+Associate Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
 Email: [jiangqinhong at senseauto dot com]()
 <br/>
 
 ## Short Biography
 ---  
-Currently I am a Dupty Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.    
+Currently I am an Associate Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.    
 
 We are recruiting self-motivated researchers/developers.
 If you are instrested in topics related to autonoumous driving, including perception, sensor fusion, trajectory prediction and software engineering, please send me your CV.   
