@@ -11,12 +11,11 @@ Email: [jiangqinhong at senseauto dot com]()
 
 ## Short Biography
 ---  
-Currently I am an Associate Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.    
+Currently I am an Associate Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.      
+  
+I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.  
 
-We are recruiting self-motivated researchers/developers.
-If you are instrested in topics related to autonoumous driving, including perception, sensor fusion, trajectory prediction and software engineering, please send me your CV.   
-
-Before I joined SenseTime in 2018, I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University in 2015.
+We are recruiting self-motivated researchers/developers.  
 <br/>
 <br/>
 <br/>
@@ -31,6 +30,10 @@ Topics related to autonoumous driving include but are not limited to perception,
 
 ## Publications
 ---  
+[SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations](https://arxiv.org/abs/2112.04680)  
+Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao  
+36th AAAI Conference on Artificial Intelligence(AAAI), 2022.
+   
 [Shape Prior Guided Instance Disparity Estimation for 3D Object Detection](https://ieeexplore.ieee.org/document/9419782)  
 Linghao Chen, Jiaming Sun, Yiming Xie, Siyu Zhang, Qing Shuai, **Qinhong Jiang**, Guofeng Zhang, Hujun Bao, Xiaowei Zhou  
 IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI), 2021.  
