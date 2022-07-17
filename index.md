@@ -5,13 +5,13 @@ layout: default
 <img class="profile-picture" src="bio.jpg">
 
 (蒋沁宏)  
-Associate Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
+Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
 Email: [jiangqinhong at senseauto dot com]()
 <br/>
 
 ## Short Biography
 ---  
-Currently I am an Associate Director of R&D at SenseTime, leading the perception model&application team in intelligent driving group. Before that, I was also responsible for the prediction team.      
+Currently I am a Director of R&D at SenseTime, leading the perception team in intelligent driving group. Before that, I was also responsible for the prediction team.      
   
 I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.  
 
@@ -30,6 +30,22 @@ Topics related to autonoumous driving include but are not limited to perception,
 
 ## Publications
 ---  
+[Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training](https://arxiv.org/pdf/2204.11590.pdf)    
+Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, and Junjun Jiang    
+European Conference on Computer Vision(ECCV), 2022.   
+   
+[Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection]()
+Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao    
+European Conference on Computer Vision(ECCV), 2022.   
+   
+[AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2201.06493)    
+Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinghong Jiang**, Feng Zhao, Bolei Zhou, Hang Zhao   
+IJCAI, 2022.   
+    
+[Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection](https://arxiv.org/pdf/2204.11582.pdf)    
+Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao   
+ACM MM, 2022.   
+  
 [SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations](https://arxiv.org/abs/2112.04680)  
 Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, Junjun Jiang, Bolei Zhou, Hang Zhao  
 36th AAAI Conference on Artificial Intelligence(AAAI), 2022.
