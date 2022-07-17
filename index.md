@@ -34,7 +34,7 @@ Topics related to autonoumous driving include but are not limited to perception,
 Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, and Junjun Jiang    
 European Conference on Computer Vision(ECCV), 2022.   
    
-[Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection]()
+[Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection]()     
 Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao    
 European Conference on Computer Vision(ECCV), 2022.   
    
