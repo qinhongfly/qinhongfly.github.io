@@ -30,6 +30,9 @@ Topics related to autonoumous driving include but are not limited to perception,
 
 ## Publications
 ---  
+[Towards Model Generalization for Monocular 3D Object Detection](https://arxiv.org/pdf/2205.11664.pdf)   
+Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, Junjun Jiang   
+   
 [Unsupervised Domain Adaptation for Monocular 3D Object Detection via Self-Training](https://arxiv.org/pdf/2204.11590.pdf)    
 Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, and Junjun Jiang    
 European Conference on Computer Vision(ECCV), 2022.   
