@@ -7,5 +7,5 @@ markdown: kramdown
 tracking_id: #
 
 sass:
-    style: nested
+    style: expanded
     sass_dir: _sass
