@@ -13,10 +13,9 @@ jiangqhmail@gmail.com
 ---   
 Currently I am a Director at SenseTime, engaged in R&D related to autonomous driving.     
       
-I am the head of 4 R&D departments, including Perception R&D Center,  SLAM R&D Center, Mass Production System Develoment Department, and Mass Production Delivery Test Department.     
+I am the head of 4 R&D departments, including Perception R&D Center,  SLAM R&D Center, Mass Production System Develoment Department, and Mass Production Delivery Test Department. I was also responsible for the Prediction Team.       
       
-At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project.    
-Before that, I was also responsible for the Prediction Team.      
+At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project.       
      
 I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html) in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
 <br/>
@@ -25,7 +24,7 @@ I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http:
 --- 
 I'm a big believer in data-driven algorithms. My research topics are all related to autonoumous driving, including  
 - Perception, especially vision-centric bev and mapless related   
-- Doamin Adaption  
+- Object3D related Doamin Adaption  
 - Motion Prediction   
 - MOT / Sensor Fusion  
 - End2End AD     
