@@ -4,33 +4,47 @@ layout: default
 
 <img class="profile-picture" src="bio.jpg">
 
-Director of R&D, [SenseTime Group Ltd.](https://www.sensetime.com/en/)  
-Email: [jiangqinhong at senseauto dot com]()
+Director of R&D, SenseTime   
+jiangqhmail@gmail.com   
+[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV]()   
 <br/>
 
-## Short Biography
----  
-Currently I am a Director of R&D at SenseTime, leading the **perception team** and the **mass production testing** team in intelligent driving group.    
-I am also responsible for the development of our L2+ autonomous driving system SenseAuto Pilot, as well as some mass production projects.    
-Before that, I was also responsible for the prediction team.      
-  
-I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.  
-
-We are recruiting self-motivated researchers/developers.  
-<br/>
-<br/>
+## Short Bio   
+Currently I am a Director at SenseTime, engaged in R&D related to mass production of autonomous driving.   
+I am the head of 4 R&D departments, including **Perception R&D Center**,  **SLAM R&D Center**, **Mass Production System Develoment Department**, and **Mass Production Delivery Test Department**.    
+At the same time, I am also in charge of the development of our L2++ system **SenseAuto Pilot**, and the tech lead of the **GAC Mass Production Project**.    
+Before that, I was also responsible for the **Prediction Team**.      
+I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html) in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
+***   
 <br/>
 
-## R&D Interest 
----
-Topics related to autonoumous driving include but are not limited to perception, sensor fusion, trajectory prediction and software engineering.   
+## R&D Interest    
+I'm a big believer in data-driven algorithms. My research topics are all related to autonoumous driving, including  
+- Perception, especially vision-centric bev and mapless related   
+- Doamin Adaption  
+- Motion Prediction   
+- MOT / Sensor Fusion  
+- End2End AD   
+***   
 <br/>
-<br/>
-<br/>
+
+## NEWS  
+- \[2023\]  Our L2++ mass production team won the company's highest technology award, SenseTime Original Award.    
+- \[2023\]  I was awarded as a candidate for the company's highest award, the SenseTime Award.  
+- \[2023\]  1 paper related to BEV accepted by ICLR 2023.  
+- \[2022\]  5 papers related to vision based bev perception, domain adapation accepted by ECCV/IJCAI/ACM MM/AAAI 2022.  
+- \[2021\]  3 papers related to vision based object3d detection, motion prediction accepted by TPAMI/CVPR 2021.  
+- \[2020\]  4 papers related to motion prediction, object3d detection accepted by CVPR/ECCV 2020.  
+***  
+<br\>
 
 
 ## Publications
 ---  
+[BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2211.09386.pdf)  
+Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao   
+ICLR 2023.  
+
 [Towards Model Generalization for Monocular 3D Object Detection](https://arxiv.org/pdf/2205.11664.pdf)   
 Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, Junjun Jiang   
    
@@ -38,7 +52,7 @@ Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, Ju
 Zhenyu Li, Zehui Chen, Ang Li, Liangji Fang, **Qinhong Jiang**, Xianming Liu, and Junjun Jiang    
 ECCV 2022.   
    
-[Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection]()     
+[AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection](https://arxiv.org/abs/2207.10316)     
 Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao    
 ECCV 2022.   
    
