@@ -6,16 +6,17 @@ layout: default
 
 Director of R&D, SenseTime   
 jiangqhmail@gmail.com   
-[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV]()   
+[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV]()    
+---   
 <br/>
 
 ## Short Bio   
-Currently I am a Director at SenseTime, engaged in R&D related to mass production of autonomous driving.   
-I am the head of 4 R&D departments, including **Perception R&D Center**,  **SLAM R&D Center**, **Mass Production System Develoment Department**, and **Mass Production Delivery Test Department**.    
-At the same time, I am also in charge of the development of our L2++ system **SenseAuto Pilot**, and the tech lead of the **GAC Mass Production Project**.    
-Before that, I was also responsible for the **Prediction Team**.      
+Currently I am a Director at SenseTime, engaged in R&D related to autonomous driving.   
+I am the head of 4 R&D departments, including Perception R&D Center,  SLAM R&D Center, Mass Production System Develoment Department, and Mass Production Delivery Test Department.    
+At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project.    
+Before that, I was also responsible for the Prediction Team.      
 I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html) in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
-***   
+---   
 <br/>
 
 ## R&D Interest    
@@ -25,7 +26,7 @@ I'm a big believer in data-driven algorithms. My research topics are all related
 - Motion Prediction   
 - MOT / Sensor Fusion  
 - End2End AD   
-***   
+---    
 <br/>
 
 ## NEWS  
@@ -35,8 +36,8 @@ I'm a big believer in data-driven algorithms. My research topics are all related
 - \[2022\]  5 papers related to vision based bev perception, domain adapation accepted by ECCV/IJCAI/ACM MM/AAAI 2022.  
 - \[2021\]  3 papers related to vision based object3d detection, motion prediction accepted by TPAMI/CVPR 2021.  
 - \[2020\]  4 papers related to motion prediction, object3d detection accepted by CVPR/ECCV 2020.  
-***  
-<br\>
+---   
+<br/>
 
 
 ## Publications
