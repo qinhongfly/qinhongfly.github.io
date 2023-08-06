@@ -12,9 +12,9 @@ jiangqhmail@gmail.com
 ## Short Bio   
 ---   
 
-I have about 8 years R&D experience in Perception and Prediction algorithms. Currently, I am leading the Perception R&D Center in SenseAuto(绝影). Previously, I was also responsible for the Prediction Team. 
+Currently, I am leading the Perception R&D Center in SenseAuto(绝影). Previously, I was also responsible for the Prediction Team. 
 
-At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project. I am also the head of 2 mass production related departments, including  Mass Production System Development and Mass Production Delivery Test.   
+At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project. I am also the head of 3 mass production related departments, including  SLAM R&D Center, Mass Production System Development and Mass Production Delivery Test.   
      
 I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html) in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
 <br/>
@@ -22,7 +22,7 @@ I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http:
 ## R&D Interest    
 --- 
 I'm a big believer in data-driven algorithms. My research topics are all related to autonoumous driving, including  
-- Perception, especially vision-centric bev and mapless related   
+- Perception, especially vision-centric related   
 - Doamin Adaption related to object3d
 - Motion Prediction   
 - Sensor Fusion 
