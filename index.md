@@ -6,7 +6,7 @@ layout: default
 
 Director of R&D, SenseTime   
 jiangqhmail@gmail.com   
-[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV](jqh.pdf)     
+[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV]()     
 <br/>
 
 ## Short Bio   
