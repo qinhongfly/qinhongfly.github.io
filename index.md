@@ -6,38 +6,29 @@ layout: default
 
 Director of R&D, SenseTime   
 jiangqhmail@gmail.com   
-[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [CV]()     
+[Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [知乎](https://www.zhihu.com/people/mylivejiang/posts)     
 <br/>
 
 ## Short Bio   
 ---   
+Currently, I am leading the R&D team for Perception, SLAM, and Algorithm Engineering at SenseAuto (绝影). Previously, I also took charge of the Prediction team. Concurrently, I served as the technical lead for the mass production projects with GAC (广汽) and FAW (一汽).
 
-Currently, I am leading the Perception R&D Center in SenseAuto(绝影). Previously, I was also responsible for the Prediction Team. 
-
-At the same time, I am also in charge of the development of our L2++ system SenseAuto Pilot, and the tech lead of the GAC Mass Production Project. I am also the head of 3 mass production related departments, including  SLAM R&D Center, Mass Production System Development and Mass Production Delivery Test.   
+My primary R&D interests are centered around computer vision and its applications in robotics, such as autonomous driving. My ultimate goal is to create AI-enhanced products that offer tangible benefits to people's daily lives. I am currently penning a Tech Column on [知乎](https://www.zhihu.com/column/c_1776566920101675008), sharing my perspectives on autonomous driving and AI. Feel free to reach out for a discussion.
      
-I got my M.S. degree in the [State Key Lab of CAD&CG, Zhejiang University](http://www.cad.zju.edu.cn/english.html) in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
-<br/>
-
-## R&D Interest    
---- 
-I'm a big believer in data-driven algorithms. My research topics are all related to autonoumous driving, including  
-- Perception, especially vision-centric related   
-- Doamin Adaption related to object3d
-- Motion Prediction   
-- Sensor Fusion 
-- End2End AD  
+I got my M.S. degree in the State Key Lab of CAD&CG, Zhejiang University in 2018, supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/). Before that, I received the B.S. degree of Digital Media Technology in Zhejiang University.    
 <br/>
 
 ## NEWS  
 ---   
+- \[2024\]  Our vision-based, sensor-input, end-to-end autonomous driving system made its debut at the Beijing International Automotive Exhibition.
+- \[2024\]  1 paper related to perception was accepted by TIP.
 - \[2023\]  I was invited by leiphone(雷锋网) to give a [talk](https://www.leiphone.com/category/transportation/UpzO8osocJ6sbBD8.html) on our R&D of SenseAuto Pilot.   
-- \[2023\]  Our L2++ mass production team won the company's highest technology award, SenseTime Original Award !      
-- \[2023\]  I was awarded as a candidate for the company's highest award, the SenseTime Award !   
-- \[2023\]  1 paper related to BEV accepted by ICLR 2023 !  
-- \[2022\]  5 papers related to vision based bev perception, domain adapation accepted by ECCV/IJCAI/ACM MM/AAAI 2022 !   
-- \[2021\]  3 papers related to vision based object3d detection, motion prediction accepted by TPAMI/CVPR 2021 !   
-- \[2020\]  4 papers related to motion prediction accepted by CVPR/ECCV 2020 !   
+- \[2023\]  Our L2++ mass production team won the company's highest technology award, SenseTime Original Award.   
+- \[2023\]  I was awarded as a candidate for the company's highest award, the SenseTime Award.   
+- \[2023\]  1 paper related to perception was accepted by ICLR 2023 !  
+- \[2022\]  5 papers related to perception, bev domain adapation were accepted by ECCV/IJCAI/ACM MM/AAAI 2022.    
+- \[2021\]  3 papers related to perception, motion prediction were accepted by TPAMI/CVPR 2021.   
+- \[2020\]  4 papers related to motion prediction were accepted by CVPR/ECCV 2020.   
 <br/>
 
 
