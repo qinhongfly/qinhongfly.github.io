@@ -11,7 +11,7 @@ jiangqhmail@gmail.com
 
 ## Short Bio   
 ---   
-Currently, I am leading the R&D team for Perception, SLAM, and Algorithm Engineering at SenseAuto (绝影). Previously, I also took charge of the Prediction team. Concurrently, I served as the technical lead for the mass production projects with GAC (广汽) and FAW (一汽).
+Currently, I am leading the End-to-end autonomous driving R&D team at SenseAuto(绝影). Previously, I also took charge of the R&D team for Perception, SLAM, Prediction and Algorithm Engineering. Concurrently, I served as the technical lead for the mass production projects with GAC (广汽) and FAW (一汽).
 
 My primary R&D interests are centered around computer vision and its applications in robotics, such as autonomous driving. My ultimate goal is to create AI-enhanced products that offer tangible benefits to people's daily lives. I am currently penning a Tech Column on [知乎](https://www.zhihu.com/column/c_1776566920101675008), sharing my perspectives on autonomous driving and AI. Feel free to reach out for a discussion.
      
