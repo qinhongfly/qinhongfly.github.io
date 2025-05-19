@@ -4,14 +4,16 @@ layout: default
 
 <img class="profile-picture" src="bio.jpg">
 
-Director of R&D, SenseTime   
+NextGen Flight System, DJI  
 jiangqhmail@gmail.com   
 [Google Scholar](https://scholar.google.com.hk/citations?user=yQAPc88AAAAJ&hl=zh-CN)  / [知乎](https://www.zhihu.com/people/mylivejiang/posts)     
 <br/>
 
 ## Short Bio   
 ---   
-Currently, I am leading the End-to-end autonomous driving R&D team at SenseAuto(绝影). Previously, I also took charge of the R&D team for Perception, SLAM, Prediction and Algorithm Engineering. Concurrently, I served as the technical lead for the mass production projects with GAC (广汽) and FAW (一汽).
+Currently, I am leading a R&D team in DJI, to spearhead the design and development of the Next-Generation Flight System. We're seeking highly motivated, self-disciplined engineers with expertise in Computer Vision, Reinforcement Learning (RL), Decision-Making, and Planning to join our cutting-edge project.
+
+Prior to this, I lead the End-to-End Autonomous Driving R&D team at SenseAuto, overseeing technical development across Perception, SLAM, Prediction, and Algorithm Engineering. Concurrently, I served as Technical Lead for mass production initiatives with automotive partners GAC and FAW, delivering production-ready solutions for commercial deployment.
 
 My primary R&D interests are centered around computer vision and its applications in robotics, such as autonomous driving. My ultimate goal is to create AI-enhanced products that offer tangible benefits to people's daily lives. I am currently penning a Tech Column on [知乎](https://www.zhihu.com/column/c_1776566920101675008), sharing my perspectives on autonomous driving and AI. Feel free to reach out for a discussion.
      
