@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi 这里是蒋沁宏。我目前任职于大疆 (DJI)飞行系统部，致力于下一代空间机器人的定义和开发。我们团队目前在积极招聘世界模型(重建&生成)，VLA，多模态感知，端到端，强化学习，模型量化，高性能计算等等方向的算法工程师。
+我们不仅有记录美好生活的消费级产品，还有行业、农业等方向的生产力工具，欢迎来简历，一起打造影响上百万人的智能硬件产品！
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+在此之前，我曾任职于商汤科技 (SenseTime) ，负责自动驾驶的多个研发团队，涵盖端到端、预测、感知、SLAM、工程化集成等多个方向。同时，我作为技术负责人，主导了公司与本田、广汽、一汽等多个车企的合作项目。
+
+我个人的研发兴趣集中在AI + 机器人等方向，我希望自己的工作能够为人们的美好生活带来切实的价值。
+
+我于2018年从浙江大学CAD&CG国家重点实验室毕业，师从章国锋教授；我本科毕业于浙江大学数字媒体技术专业，主要是图形学和游戏等相关方向。

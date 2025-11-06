@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "AI + 机器人 资深从业者"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jiangqinhong.top"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=yQAPc88AAAAJ&hl=zh-CN"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:<jiangqhmail@gmail.com>"
