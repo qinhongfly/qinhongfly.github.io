@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "AI + 机器人 资深从业者"
   links:
-    - label: "Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=yQAPc88AAAAJ&hl=zh-CN"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:<jiangqhmail@gmail.com>"
@@ -72,6 +69,9 @@ author:
     - label: "Zhihu"
       icon: "fab fa-fw fa-zhihu"
       url: "https://www.zhihu.com/people/mylivejiang"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=yQAPc88AAAAJ&hl=zh-CN"
 
 
 

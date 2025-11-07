@@ -2,7 +2,8 @@
 permalink: /projects/
 title: "Projects"
 ---  
-我当前更专注于带领团队做系统级的综合竞争力定义与实现。
+我当前更专注于带领团队做系统级的综合竞争力定义与实现。    
+
 单点的论文工作主要是在商汤早期，得益于鼓励原创的企业文化，作为算法工程师解决业务问题并顺手发表。
 
 ## 轨迹预测
@@ -25,7 +26,8 @@ Jianhua Sun, **Qinhong Jiang**, Cewu Lu
 CVPR 2020.  
 
 ## 感知与自监督
-BEV 3D 目标检测，单目检测泛化性，自监督，知识蒸馏等方向。
+BEV 3D 目标检测，单目检测泛化性，自监督，知识蒸馏等方向。    
+
 [BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection](https://arxiv.org/pdf/2211.09386.pdf)  
 Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, **Qinhong Jiang**, Feng Zhao   
 ICLR 2023.  
