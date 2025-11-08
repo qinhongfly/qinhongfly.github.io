@@ -1,9 +1,7 @@
 main:
-  - title: "About"
+  - title: "关于我"
     url: /about/
-  - title: "Projects"
+  - title: "项目论文"
     url: /projects/
-  - title: "Posts"
-    url: /posts/
-  - title: "Tags"
+  - title: "博客"
     url: /tags/
