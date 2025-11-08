@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-zhihu"
       url: "https://www.zhihu.com/people/mylivejiang"
     - label: "小红书"
-      icon: "fab fa-fw fa-xiaohongshu"
+      icon_path: "/assets/images/xiaohongshu-icon.svg"
       url: ""
     - label: "Scholar"
       icon: "fas fa-fw fa-graduation-cap"
