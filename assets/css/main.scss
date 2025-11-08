@@ -2,25 +2,55 @@
 # 必须有这两行空的 front matter
 ---
 
-@import "minimal-mistakes"; // 导入 Minimal Mistakes 核心样式
+/* ------------------------------------------------------------------
+   第 1 步：从 Google Fonts 导入字体
+   我们导入 Roboto (西文), Noto Sans SC (中文), 和 Roboto Mono (代码)
+   400 = Regular, 700 = Bold
+------------------------------------------------------------------ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Roboto+Mono:wght@400;700&family=Roboto:wght@400;700&display=swap');
 
 /* ------------------------------------------------------------------
-   在这里添加你的自定义 CSS
+   第 2 步：覆盖 MM 主题的 SASS 字体变量
+   !! 这一步必须在 @import "minimal-mistakes" 之前 !!
 ------------------------------------------------------------------ */
 
-// 示例 1: 调整全局基础字号
-// 这会按比例放大所有使用 'rem' 或 'em' 单位的元素（包括标题、侧边栏等）
-// MM 默认是 16px，你可以改成 17px 或 18px
+// 定义我们的 "Gemini 风格" 字体栈
+// 优先 Roboto (西文), 其次 Noto Sans SC (中文), 最后是系统默认
+$global-font-family: "Roboto", "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+// 将正文和标题统一使用这个字体栈
+$headline-font-family: $global-font-family;
+
+// 为代码使用 Roboto Mono
+$monospace-font-family: "Roboto Mono", "Courier New", monospace;
+
+
+/* ------------------------------------------------------------------
+   第 3 步：导入 Minimal Mistakes 核心样式
+   上面的变量会在这里被主题使用
+------------------------------------------------------------------ */
+@import "minimal-mistakes";
+
+
+/* ------------------------------------------------------------------
+   第 4 步：覆盖全局字号和行高
+   !! 这一步必须在 @import "minimal-mistakes" 之后 !!
+------------------------------------------------------------------ */
+
+// 调整全局基础字号 (MM 默认是 16px)
+// Google/Gemini 的正文通常感觉在 17px 左右
 html {
-  font-size: 12px; // 将基础字号从 16px 调整为 17px
+  font-size: 17px; 
 }
 
-// 示例 2: 只调整文章正文的段落字号
-// 如果你觉得标题大小合适，只想改变正文
+// 调整全局行高，增加可读性
+body {
+  line-height: 1.6; // 增加全局行高
+}
+
+// （可选）进一步微调文章正文的行高
 .page__content {
   p, li, blockquote {
-    font-size: 1.05rem; // 稍微增大正文（基于 'rem' 单位，1rem = 17px，如果你用了示例1）
-    // 或者使用绝对单位:
-    // font-size: 18px; 
+    line-height: 1.65; // 略微拉开段落行距，提升阅读感
   }
 }
