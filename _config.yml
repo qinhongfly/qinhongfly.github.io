@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "蒋沁宏"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "AI + 机器人 资深从业者"
+  bio    : "AI/自动驾驶/机器人 从业者"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
